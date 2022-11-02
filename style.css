@@ -1,0 +1,49 @@
+body {
+    background-color: coral;
+}
+
+.center {
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.stack-item {
+    border-style: solid;
+}
+
+.top-aligned {
+    position: relative;
+    vertical-align: top;
+}
+
+#ui-header {
+    position: relative;
+    border-style: solid;
+}
+
+#logo {
+    width: 20%;
+}
+
+#search-bar {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+}
+
+#main-content {
+    position: relative;
+}
+
+#queue {
+    width: 80%;
+    float: right;
+}
+
+#room-info {
+    width: 20%;
+    float: left;
+}
